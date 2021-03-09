@@ -6,6 +6,8 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class Register_btn {
+	
+	//vicky and karthik
 
 	public static WebDriver driver;
 
