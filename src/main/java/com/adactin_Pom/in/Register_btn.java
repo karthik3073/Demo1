@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class Register_btn {
 	
-	//vicky and karthik
+	//Greens technology
 
 	public static WebDriver driver;
 
